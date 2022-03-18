@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  color: red;
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 20px;
+}
+.person{
+  background-color: rgb(223, 167, 14);
+  border: 3px solid rebeccapurple;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.friend{
+  background-color: rgb(14, 129, 223);
+  border: 3px solid rebeccapurple;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+}
